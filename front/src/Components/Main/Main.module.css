@@ -1,0 +1,41 @@
+th {
+    min-width: 200px;
+    max-width: 300px;
+}
+
+h4{
+    color: red
+}
+
+.nameCell{
+    color: rgba(43, 43, 239, 0.663);
+}
+
+table{
+    border-spacing: 0
+}
+
+thead {
+    box-shadow: 0 2px 0 #313131;
+}
+thead th {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.greyRow{
+    background-color: rgb(239, 236, 236);
+}
+
+.priceText{
+    color: rgba(43, 43, 239, 0.663);
+}
+
+.stepText{
+    color: red
+}
+
+.targetPriceText{
+    color: green
+}
+
