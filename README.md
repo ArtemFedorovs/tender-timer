@@ -11,5 +11,6 @@
 **How to run app on pc**
 
 cd back
-npm run start:dev
+npm run 
+start:dev
 
